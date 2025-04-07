@@ -2,8 +2,8 @@
 
 A web dashboard for scanning websites for XSS vulnerabilities, HSTS configuration, and Content Security Policy (CSP) in real-time.
 
-[![CI/CD](https://github.com/yourusername/web-security-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/web-security-scanner/actions/workflows/ci.yml)
-[![GitHub Pages](https://github.com/yourusername/web-security-scanner/actions/workflows/deploy.yml/badge.svg)](https://github.com/yourusername/web-security-scanner/actions/workflows/deploy.yml)
+[![CI/CD](https://github.com/ottomanturkss/web-security-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/web-security-scanner/actions/workflows/ci.yml)
+[![GitHub Pages](https://github.com/ottomanturkss/web-security-scanner/actions/workflows/deploy.yml/badge.svg)](https://github.com/yourusername/web-security-scanner/actions/workflows/deploy.yml)
 
 ## Support the Project
 
