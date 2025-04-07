@@ -2,8 +2,8 @@
 
 A web dashboard for scanning websites for XSS vulnerabilities, HSTS configuration, and Content Security Policy (CSP) in real-time.
 
-[![CI/CD](https://github.com/ottomanturkss/web-security-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/ottomanturkss/web-security-scanner/actions/workflows/ci.yml)
-[![GitHub Pages](https://github.com/ottomanturkss/web-security-scanner/actions/workflows/deploy.yml/badge.svg)](https://github.com/ottomanturkss/web-security-scanner/actions/workflows/deploy.yml)
+[![CI/CD](https://github.com/ottomanturkss/realtime-security-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/ottomanturkss/realtime-security-scanner/actions/workflows/ci.yml)
+[![GitHub Pages](https://github.com/ottomanturkss/realtime-security-scanner/actions/workflows/deploy.yml/badge.svg)](https://github.com/ottomanturkss/realtime-security-scanner/actions/workflows/deploy.yml)
 
 ## Support the Project
 
@@ -19,7 +19,7 @@ If you find this project useful, consider supporting its development:
 
 ## Live Demo
 
-Check out the live demo at: [https://ottomanturkss.github.io/web-security-scanner/](https://ottomanturkss.github.io/web-security-scanner/)
+Check out the live demo at: [https://ottomanturkss.github.io/realtime-security-scanner/](https://ottomanturkss.github.io/realtime-security-scanner/)
 
 ## Features
 
@@ -83,8 +83,8 @@ Check out the live demo at: [https://ottomanturkss.github.io/web-security-scanne
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ottomanturkss/web-security-scanner.git
-   cd web-security-scanner
+   git clone https://github.com/ottomanturkss/realtime-security-scanner.git
+   cd realtime-security-scanner
    ```
 
 2. Install backend dependencies:
@@ -125,7 +125,7 @@ The frontend is automatically deployed to GitHub Pages when changes are pushed t
 
 1. Builds the frontend application
 2. Deploys the built files to the `gh-pages` branch
-3. Makes the application available at `https://ottomanturkss.github.io/web-security-scanner/`
+3. Makes the application available at `https://ottomanturkss.github.io/realtime-security-scanner/`
 
 ### Custom Domain
 
